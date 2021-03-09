@@ -1,0 +1,22 @@
+.accordion-item {
+    width: fit-content;
+    padding: 40px;
+    align-items: center;
+    margin:auto;
+}
+
+.e-header {
+    background-color: rgb(188, 195, 199);
+}
+
+.accordion-button {
+    font-weight: bold;
+    border: 2px solid black;}
+
+input {
+    margin-right: 0;
+}
+
+.accordion-body {
+    background-color: cadetblue;
+}

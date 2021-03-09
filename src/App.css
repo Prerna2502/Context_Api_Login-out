@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  background-image : url(./Components/img/AppCssImg/background.jpg);
+  width: 100vw; 
+  min-height: 100vh;
+  position: relative;
+}
